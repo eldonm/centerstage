@@ -1,0 +1,14 @@
+name: centerstage-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - dlib
+  - opencv
+  - pillow
+  - numpy
+  - moviepy
+  - imageio 
+  - ffmpeg-python
+  - natsort
