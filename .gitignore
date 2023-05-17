@@ -10,6 +10,9 @@ Desktop.ini
 venv/
 env/
 
+#Ignore models folder
+models/
+
 # Ignore compiled Python files
 *.pyc
 *.pyo
